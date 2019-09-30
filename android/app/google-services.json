@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041335643775",
+    "firebase_url": "https://hichatonline.firebaseio.com",
+    "project_id": "hichatonline",
+    "storage_bucket": "hichatonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041335643775:android:0df0df9b9bdc0262",
+        "android_client_info": {
+          "package_name": "com.thalesgilberto.hichatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041335643775-mtfcmsi2902t21h1s522kbm46jk70s8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thalesgilberto.hichatonline",
+            "certificate_hash": "8c39362e8eafead843eb83e72c011e561deea50f"
+          }
+        },
+        {
+          "client_id": "1041335643775-o07ltrf1911m2tcifj3a93ehcc2apbia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBGxI8J2rbOQRO7dbtgafeEOOsI1zsTdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041335643775-o07ltrf1911m2tcifj3a93ehcc2apbia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
